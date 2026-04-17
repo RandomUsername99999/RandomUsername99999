@@ -1,7 +1,22 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=900&size=32&pause=0&color=00FF41&center=true&vCenter=true&width=800&lines=01101001+01110100+00100000;10001101+11100010+10110101;00001011+11010001+10101110;11110001+00011100+01010101;GLITCH_DETECTION_ACTIVE...;01010010+01101111+01101111" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=900&size=40&pause=200&color=00FF41&center=true&vCenter=true&width=1000&lines=SYSTEM_FAILURE;ACCESS_GRANTED;DATA_DUMP_START" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=20&pause=0&color=FF0000&center=true&vCenter=true&width=1000&lines=10101010101010101010101010101010101010101010101010101010101010101010;01010101010101010101010101010101010101010101010101010101010101010101" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3N6YXN6YXN6YXN6YXN6YXN6YXN6YXN6YXN6YXN6YXN6YXN6YXN6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/oQuUmcAv88SmSqc9S6/giphy.gif" width="100%">
 </p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3N6YXN6YXN6YXN6YXN6YXN6YXN6YXN6YXN6YXN6YXN6YXN6YXN6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/oQuUmcAv88SmSqc9S6/giphy.gif" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RandomUsername99999&layout=compact&theme=vision-friendly-dark&bg_color=000000&title_color=00FF41&text_color=00FF41&hide_border=true" />
+</p>
+
+---
+
+### 🟢 RandomUsername99999 // ROOT_DIRECTORY
+
+> [!CAUTION]
+> # $$\color{#00FF41}{\text{S̷Y̷S̷T̷E̷M̷ ̷O̷V̷E̷R̷R̷I̷D̷E̷ ̷I̷N̷ ̷P̷R̷O̷G̷R̷E̷S̷S̷}}$$
