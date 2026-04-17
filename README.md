@@ -1,4 +1,16 @@
 <p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndnBqZ3E1bmR4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/L2S5nYLlYyVvX/giphy.gif" width="300">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=900&size=28&pause=100&color=00FF41&center=true&vCenter=true&width=600&lines=ACCESSING+RandomUsername99999...;>>+GLITCH_DETECTED;>>+SYSTEM_FAILURE...;>>+OVERRIDE+COMPLETE" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RandomUsername99999&layout=compact&theme=vision-friendly-dark&bg_color=000000&title_color=00FF41&text_color=FF0000" />
+</p>
+
+<p align="center">
   <img src="https://see.fontimg.com/api/renderfont4/8M6P0/eyJyIjoiZ2kiLCJoIjo2NSwidyI6MTAwMCwiZnMiOjY1LCJmZ2MiOiIjMDBGRjQxIiwiYmdjIjoiIzBEMTExNyIsInQiOjF9/R0xJVENIIERFVEVDVEVE/glowing-un-glitch.png" width="500">
 </p>
 
