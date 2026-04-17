@@ -1,13 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndnBqZ3E1bmR4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/L2S5nYLlYyVvX/giphy.gif" width="300">
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=900&size=28&pause=100&color=00FF41&center=true&vCenter=true&width=600&lines=ACCESSING+RandomUsername99999...;>>+GLITCH_DETECTED;>>+SYSTEM_FAILURE...;>>+OVERRIDE+COMPLETE" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RandomUsername99999&layout=compact&theme=vision-friendly-dark&bg_color=000000&title_color=00FF41&text_color=FF0000" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=500&color=FF0000&center=true&vCenter=true&width=600&lines=LOCAL_IP_DETECTED...;SCANNING_USER_DIRECTORIES...;UAC_BYPASS_SUCCESSFUL;DOWNLOADING_PRIVATE_KEYS...;SYSTEM_OWNED_BY_RandomUsername99999" />
 </p>
 
 <p align="center">
