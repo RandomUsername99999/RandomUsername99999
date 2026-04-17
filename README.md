@@ -1,3 +1,5 @@
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=900&size=12&pause=0&color=FFFFFF&width=300&height=150&lines=01010101010101010101010101010101;10101010101010101010101010101010;00001111000011110000111100001111;11110000111100001111000011110000;01100110011001100110011001100110;10011001100110011001100110011001" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=12&pause=0&color=FFFFFF&center=true&width=1000&lines=...[copy-the-lines-above]..." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=12&pause=0&color=FFFFFF&center=true&width=1000&lines=...[copy-the-lines-above]..." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=12&pause=0&color=FFFFFF&center=true&width=1000&lines=...[copy-the-lines-above]..." />
 </p>
