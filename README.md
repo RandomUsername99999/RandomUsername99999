@@ -1,13 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=900&size=28&pause=400&color=00FF41&center=true&vCenter=true&width=600&lines=%3E%3E+ACCESSING+RandomUsername99999...;%3E%3E+%5B+ERROR+0xF42A+%5D;%3E%3E+OVERRIDING+SECURE_PROTOCOL;%3E%3E+G_L_I_T_C_H+IN+PROGRESS...&color=FF0000" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=900&size=35&pause=200&color=00FF41&center=true&vCenter=true&width=600&lines=%3E%3E+ACCESSING+SYSTEM...;%3E%3E+RandomUsername99999;%3E%3E+BREACH+IN+PROGRESS;%3E%3E+DATA_LEAK_DETECTED;%3E%3E+CRITICAL_FAILURE&color=FF0000&color=00FFFF" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RandomUsername99999&show_icons=true&theme=blood&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF&icon_color=FF0000&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RandomUsername99999&layout=compact&theme=vision-friendly-dark&bg_color=0D1117&title_color=FF0000&text_color=00FF41" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RandomUsername99999&layout=compact&theme=vision-friendly-dark&bg_color=000000&title_color=00FF41&text_color=FF0000" />
 </p>
 
 ---
@@ -19,7 +15,7 @@
 </p>
 
 > [!CAUTION]
-> # $$\color{red}{\text{W̷A̷R̷N̷I̷N̷G̷:̷ ̷D̷A̷T̷A̷ ̷C̷O̷R̷R̷U̷P̷T̷I̷O̷N̷ ̷I̷N̷ ̷S̷E̷C̷T̷O̷R̷ ̷7̷}}$$
+> # $$\color{red}{\text{W̷A̷R̷N̷I̷N̷G̷:̷ ̷S̷E̷C̷T̷O̷R̷ ̷7̷ ̷C̷O̷R̷R̷U̷P̷T̷I̷O̷N̷}}$$
 > $$\color{cyan}{\huge{\text{C O N N E C T I O N -- L O S T}}}$$
 
 <p align="center">
