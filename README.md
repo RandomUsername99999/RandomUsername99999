@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=900&size=35&pause=200&color=00FF41&center=true&vCenter=true&width=600&lines=%3E%3E+ACCESSING+SYSTEM...;%3E%3E+RandomUsername99999;%3E%3E+BREACH+IN+PROGRESS;%3E%3E+DATA_LEAK_DETECTED;%3E%3E+CRITICAL_FAILURE&color=FF0000&color=00FFFF" alt="Typing SVG" />
+  <img src="https://see.fontimg.com/api/renderfont4/8M6P0/eyJyIjoiZ2kiLCJoIjo2NSwidyI6MTAwMCwiZnMiOjY1LCJmZ2MiOiIjMDBGRjQxIiwiYmdjIjoiIzBEMTExNyIsInQiOjF9/R0xJVENIIERFVEVDVEVE/glowing-un-glitch.png" width="500">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=900&size=24&pause=100&color=FF0000&center=true&vCenter=true&width=600&lines=>>+SYSTEM+OVERRIDE;>>+RandomUsername99999;>>+BYPASSING+ENCRYPTION;>>+CORE+BREACH+IN+3...2...1" />
 </p>
 
 <p align="center">
@@ -17,7 +21,3 @@
 > [!CAUTION]
 > # $$\color{red}{\text{W̷A̷R̷N̷I̷N̷G̷:̷ ̷S̷E̷C̷T̷O̷R̷ ̷7̷ ̷C̷O̷R̷R̷U̷P̷T̷I̷O̷N̷}}$$
 > $$\color{cyan}{\huge{\text{C O N N E C T I O N -- L O S T}}}$$
-
-<p align="center">
-  <img src="https://media.giphy.com/media/oEI9uWUicZLeM/giphy.gif" width="100%" height="15px">
-</p>
